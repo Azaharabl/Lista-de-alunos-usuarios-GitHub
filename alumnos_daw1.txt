@@ -3,4 +3,5 @@ Lista de nombre y usuario de git:
 -Azahara Blanco Rodríguez
 	. github: Azahara Blanco
 
--
+-Daniel Carmona Rodríguez
+	. github: Kassius10
