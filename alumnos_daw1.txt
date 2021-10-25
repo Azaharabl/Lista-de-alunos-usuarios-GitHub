@@ -5,3 +5,5 @@ Lista de nombre y usuario de git:
 
 -Alejandro Sánchez Monzón 
 	· github: AlejandroSanchezMonzon
+-Jorge Sánchez Berrocoso
+	· github: jorgesanchez3212
