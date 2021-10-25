@@ -3,6 +3,8 @@ Lista de nombre y usuario de git:
 -Azahara Blanco Rodríguez
 	. github: Azahara Blanco
 
+-Sergio Pérez Fernández
+	· github: AguaMineralFontVella
 
 -Mireys Sánchez Pinzón
 	. github: Mireyasanche
@@ -18,4 +20,5 @@ Lista de nombre y usuario de git:
 
 -Mario Calvo Aguilar
 	· github: marioagk
+
 
