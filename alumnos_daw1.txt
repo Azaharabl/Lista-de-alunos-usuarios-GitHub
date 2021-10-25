@@ -5,3 +5,6 @@ Lista de nombre y usuario de git:
 
 -Alejandro Sánchez Monzón 
 	· github: AlejandroSanchezMonzon
+
+-Mario Calvo Aguilar
+	· github: marioagk
