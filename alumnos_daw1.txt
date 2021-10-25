@@ -3,9 +3,19 @@ Lista de nombre y usuario de git:
 -Azahara Blanco Rodríguez
 	. github: Azahara Blanco
 
+
 -Mireys Sánchez Pinzón
 	. github: Mireyasanche
 
+-Daniel Carmona Rodríguez
+	. github: Kassius10
+
+-Jeremy Ramos Segura
+	. github: JeremyRamos01
+
 -Alejandro Sánchez Monzón 
 	· github: AlejandroSanchezMonzon
+
+-Mario Calvo Aguilar
+	· github: marioagk
 
