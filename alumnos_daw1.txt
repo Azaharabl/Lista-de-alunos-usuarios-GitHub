@@ -5,3 +5,7 @@ Lista de nombre y usuario de git:
 
 -Mireys Sánchez Pinzón
 	. github: Mireyasanche
+
+-Alejandro Sánchez Monzón 
+	· github: AlejandroSanchezMonzon
+
