@@ -24,9 +24,34 @@ Lista de nombre y usuario de git:
 -Alejandro Sánchez Monzón 
 	· github: AlejandroSanchezMonzon
 
+
+-Jan Carlos Ramos Martínez
+	· github: JanCRM
+
+-Jorge Sánchez Berrocoso
+	· github: jorgesanchez3212
+  
 -Mario Calvo Aguilar
 	· github: marioagk
 
+
 -Mohamed Asidah Bchiri
 	 · github: loopedmoha
+
+-Víctor Rivas Martínez
+	. github: VictorRM03
+
+-Ainhoa Bermejo Esteban
+	· github: aino03
+
+-Álvaro Mingo Castillo
+	· github: AlvaroMingoCastillo
+
+-Mariangel Cabeza Travascio
+	. github: Mariangel-99
+
+-Francisco Toribio Respaldo
+	. github: frantoribio
+
+
 
