@@ -5,3 +5,25 @@ Lista de nombre y usuario de git:
 
 -Daniel Rodríguez Fernández
 	. github: idanirf
+
+-Rubén García-Redondo Marín
+	. github: RuyMi
+
+-Sergio Pérez Fernández
+	· github: AguaMineralFontVella
+
+-Mireys Sánchez Pinzón
+	. github: Mireyasanche
+
+-Daniel Carmona Rodríguez
+	. github: Kassius10
+
+-Jeremy Ramos Segura
+	. github: JeremyRamos01
+
+-Alejandro Sánchez Monzón 
+	· github: AlejandroSanchezMonzon
+
+-Mario Calvo Aguilar
+	· github: marioagk
+
