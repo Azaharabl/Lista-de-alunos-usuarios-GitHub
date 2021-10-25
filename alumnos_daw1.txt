@@ -3,4 +3,5 @@ Lista de nombre y usuario de git:
 -Azahara Blanco Rodríguez
 	. github: Azahara Blanco
 
--
+-Sergio Pérez Fernández
+	· github: AguaMineralFontVella
