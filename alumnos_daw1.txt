@@ -27,3 +27,6 @@ Lista de nombre y usuario de git:
 -Mario Calvo Aguilar
 	· github: marioagk
 
+-Álvaro Mingo Castillo
+	· github: AlvaroMingoCastillo
+
