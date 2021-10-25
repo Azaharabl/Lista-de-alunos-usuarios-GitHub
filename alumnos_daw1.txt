@@ -27,3 +27,5 @@ Lista de nombre y usuario de git:
 -Mario Calvo Aguilar
 	· github: marioagk
 
+-Víctor Rivas Martínez
+	. github: VictorRM03
