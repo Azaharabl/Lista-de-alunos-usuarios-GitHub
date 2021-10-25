@@ -30,3 +30,15 @@ Lista de nombre y usuario de git:
 -Ainhoa Bermejo Esteban
 	· github: aino03
 
+-Álvaro Mingo Castillo
+	· github: AlvaroMingoCastillo
+
+-Mariangel Cabeza Travascio
+	. github: Mariangel-99
+
+-Francisco Toribio Respaldo
+	. github: frantoribio
+
+
+
+
