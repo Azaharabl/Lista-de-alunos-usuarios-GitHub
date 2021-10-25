@@ -27,6 +27,10 @@ Lista de nombre y usuario de git:
 -Mario Calvo Aguilar
 	· github: marioagk
 
+
+-Víctor Rivas Martínez
+	. github: VictorRM03
+
 -Ainhoa Bermejo Esteban
 	· github: aino03
 
@@ -38,7 +42,5 @@ Lista de nombre y usuario de git:
 
 -Francisco Toribio Respaldo
 	. github: frantoribio
-
-
 
 
