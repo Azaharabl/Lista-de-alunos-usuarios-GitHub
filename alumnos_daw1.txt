@@ -4,6 +4,9 @@ Lista de nombre y usuario de git:
 	. github: Azahara Blanco
 
 
+-Mireys Sánchez Pinzón
+	. github: Mireyasanche
+
 -Daniel Carmona Rodríguez
 	. github: Kassius10
 
