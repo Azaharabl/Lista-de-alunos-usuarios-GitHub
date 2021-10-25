@@ -5,3 +5,7 @@ Lista de nombre y usuario de git:
 
 -Jeremy Ramos Segura
 	. github: JeremyRamos01
+
+-Alejandro Sánchez Monzón 
+	· github: AlejandroSanchezMonzon
+
