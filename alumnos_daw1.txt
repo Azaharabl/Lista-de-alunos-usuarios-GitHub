@@ -35,6 +35,9 @@ Lista de nombre y usuario de git:
 	· github: marioagk
 
 
+-Mohamed Asidah Bchiri
+	 · github: loopedmoha
+
 -Víctor Rivas Martínez
 	. github: VictorRM03
 
