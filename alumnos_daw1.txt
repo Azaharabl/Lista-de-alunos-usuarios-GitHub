@@ -24,6 +24,8 @@ Lista de nombre y usuario de git:
 -Alejandro Sánchez Monzón 
 	· github: AlejandroSanchezMonzon
 
+-Joaquín Ayllón García
+	· github: JoaquinAyG
 
 -Jan Carlos Ramos Martínez
 	· github: JanCRM
