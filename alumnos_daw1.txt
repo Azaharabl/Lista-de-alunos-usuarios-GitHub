@@ -27,6 +27,11 @@ Lista de nombre y usuario de git:
 -Mario Calvo Aguilar
 	· github: marioagk
 
+
 -Mariangel Cabeza Travascio
 	. github: Mariangel-99
+
+-Francisco Toribio Respaldo
+	. github: frantoribio
+
 
