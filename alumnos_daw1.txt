@@ -55,6 +55,19 @@ Lista de nombre y usuario de git:
 -Francisco Toribio Respaldo
 	. github: frantoribio
 
+-Juan Sánchez Balastegui
+               . github JuanBalas
+
 
 -Antonio Jesús Miranda Arroba
 	. github: Tonimir10
+
+
+-Rocío Palao Fernández
+	. github: Rochiio
+
+
+-Iván Azagra Troya
+	·Github: IvanAzagraTroya
+
+
