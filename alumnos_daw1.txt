@@ -59,11 +59,15 @@ Lista de nombre y usuario de git:
                . github JuanBalas
 
 
+-Antonio Jesús Miranda Arroba
+	. github: Tonimir10
+
+
 -Rocío Palao Fernández
 	. github: Rochiio
 
 
-
 -Iván Azagra Troya
 	·Github: IvanAzagraTroya
+
 
