@@ -55,5 +55,6 @@ Lista de nombre y usuario de git:
 -Francisco Toribio Respaldo
 	. github: frantoribio
 
-
+-Iván Azagra Troya
+	·Github: IvanAzagraTroya
 
