@@ -56,4 +56,5 @@ Lista de nombre y usuario de git:
 	. github: frantoribio
 
 
-
+-Antonio Jesús Miranda Arroba
+	. github: Tonimir10
