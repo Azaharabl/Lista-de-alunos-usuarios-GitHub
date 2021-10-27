@@ -54,6 +54,8 @@ Lista de nombre y usuario de git:
 
 -Francisco Toribio Respaldo
 	. github: frantoribio
+-Héctor Xavier Marín Jiménez
+	.github: XavierSinPiernas
 
 -Marcos Funes Arribas
 	. github: Marcos7F
@@ -75,6 +77,8 @@ Lista de nombre y usuario de git:
   
  -David Villegas García
 	· github: DavidVillegasan
+-Héctor Xavier Marín Jiménez
+	.Github:XavierSinPiernas
   
 
 
