@@ -77,8 +77,13 @@ Lista de nombre y usuario de git:
   
  -David Villegas García
 	· github: DavidVillegasan
+
+-Roberto Blazquez Martin
+	.github: xBaank
+
 -Héctor Xavier Marín Jiménez
 	.Github:XavierSinPiernas
+
   
 
 
