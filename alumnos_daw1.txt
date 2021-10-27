@@ -57,5 +57,26 @@ Lista de nombre y usuario de git:
 -Héctor Xavier Marín Jiménez
 	.github: XavierSinPiernas
 
+-Marcos Funes Arribas
+	. github: Marcos7F
+
+-Juan Sánchez Balastegui
+               . github JuanBalas
+
+-Antonio Jesús Miranda Arroba
+	. github: Tonimir10
+
+-Rocío Palao Fernández
+	. github: Rochiio
+
+-Iván Azagra Troya
+	·Github: IvanAzagraTroya
+  
+-Veronica Anchipan
+  .Guithub:veronicanchitipan
+  
+ -David Villegas García
+	· github: DavidVillegasan
+  
 
 
